@@ -1,0 +1,32 @@
+{
+    "name": "slyg",
+    "description": "A simple package for generating a slug from a string",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Mahmoud Ibrahiam",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "dev": "node index.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/remahmoud/slyg"
+    },
+    "homepage": "https://github.com/remahmoud/slyg#readme",
+    "keywords": [
+        "slug",
+        "slugify",
+        "slugify string",
+        "string",
+        "url",
+        "friendly",
+        "generate",
+        "generate slug",
+        "generate url"
+    ]
+}
