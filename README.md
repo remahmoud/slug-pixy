@@ -1,5 +1,6 @@
 # Slyg - Create slug from text
 
+simple slug generator for nodejs
 
 ## Install
 
@@ -12,7 +13,7 @@ npm i slyg
 ```js
 const sluger = require("slyg")
 
-slugger("hello world 123")
+sluger("hello world 123")
 
 // return hello-world-123
 ```
