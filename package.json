@@ -1,5 +1,5 @@
 {
-    "name": "slyg",
+    "name": "slug-pixy",
     "description": "A simple package for generating a slug from a string",
     "version": "1.0.0",
     "main": "index.js",
@@ -15,9 +15,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/remahmoud/slyg"
+        "url": "https://github.com/remahmoud/slug-pixy"
     },
-    "homepage": "https://github.com/remahmoud/slyg#readme",
+    "homepage": "https://github.com/remahmoud/slug-pixy#readme",
     "keywords": [
         "slug",
         "slugify",
